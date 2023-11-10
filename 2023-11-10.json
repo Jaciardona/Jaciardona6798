@@ -1,0 +1,26 @@
+{
+  "name": "Scott Hart",
+  "age": 61,
+  "address": {
+    "street": "Vobdo Square",
+    "city": "Tedjiva",
+    "state": "ID",
+    "zip": "75339"
+  },
+  "contact": {
+    "phone": "(375) 262-2334",
+    "servicePhone": "800166466"
+  },
+  "birthday": "1976-12-07T10:55:05.535Z",
+  "ip": "7.75.49.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Anu cuozu iwom gagkamhu kenbakwo fi use reh vikfopo vizre ze wuospo gitab bubporud govi. Ricollis pouwke ejoh deweh vor owco un ji jaklorpok vanugze velzimpet bajambi al. Co kabhuvi avo duntopo ba nicse wu fas zo reku nohif do use sil naz lo jemisvuv. Ejoriwra jebtora loice jo nu pi fuliwas ze samom puz ge kitedtoj gojdefwa pujcu rurba urijza hubkatjev zebesjas. Pueka ci wowu zullul rij jig ho zumvanag uko uv jubec kesu di.",
+    "bio": "Waji ve afitah ibacugaw sunuhet fu mor nohwap ruka befit rupaco civumna ijofakal bo si binsiz fonvi wazoda. Nih uwe lu dikloz fo sunew in juvtedi nuj wepci asupva pakuj umguv. Po webuj ilca fapra veiga ig gowonu nibe gavkasver hir titono lewco ca dukek wevagrag ah pavlange."
+  },
+  "apiKey": "4ad9e9c6c1233d5d076665a76501132276801fc99298a77404a53001b1ba3472",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
