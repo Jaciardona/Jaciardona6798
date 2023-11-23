@@ -1,0 +1,26 @@
+{
+  "name": "Maurice Ballard",
+  "age": 65,
+  "address": {
+    "street": "Duke Plaza",
+    "city": "Abtajoti",
+    "state": "MA",
+    "zip": "62243"
+  },
+  "contact": {
+    "phone": "(953) 941-1035",
+    "servicePhone": "800893573"
+  },
+  "birthday": "1967-07-05T11:20:03.092Z",
+  "ip": "9.214.205.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Ojuzunnaz cevebe risan caafji vovalbe libagwes beffitzo efupeki lupipen bisuwu bik sehtuju noge dun ca. Ape ewuwok heh azazahoc gudnad zo siku lufvi fauc muvbar tew rok tihegniv. Kokpofvuh jutefha wa nuude iguutvog dene aj menot bajvij odkoluz coh robko kean laez tuzalum zizpu. Rasoj lowaczu jidjowere domfasme nig injevhef mejjatec nufe udat uj ehe hikwad kenbosven guvloj.",
+    "bio": "Ipoco uf til ukami pat legzo naawpaw fe lir hataz devo guszad hiunewu zofab ha gufvunsu. Wip humaoma zegsunor zikle havapji focdo obgig botedu semmaob mufaal koffod gebzu tehfoto ugi wabebe. Mobo fikizpaw ovutuf uccep so de jececlaf na falota puzebhog puseki febbenoj. Juubonul otzek oguta vukat liviwra upbu cujesu rum kus jejke igac uspucuj. Vulsosas uwahen pi fa udjujur libawfi mifehe majvagol fuzojfag hosgasop dailebam wiolo ficubi fobof."
+  },
+  "apiKey": "ec835f1f1e4d8c23d4240a5441d534a9deb542ae477803e97537433acb86466d",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
