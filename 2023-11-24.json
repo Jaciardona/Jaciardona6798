@@ -1,0 +1,26 @@
+{
+  "name": "Teresa Gill",
+  "age": 49,
+  "address": {
+    "street": "Heluk Center",
+    "city": "Kafihoako",
+    "state": "RI",
+    "zip": "80308"
+  },
+  "contact": {
+    "phone": "(732) 711-3218",
+    "servicePhone": "800459442"
+  },
+  "birthday": "2005-01-07T21:00:32.208Z",
+  "ip": "134.88.95.181",
+  "foo": "bar",
+  "profile": {
+    "about": "Ege echar burnog ni liimfir sud gigmizo riimehiv reopag soette atno totihur od lespotno ena ewdiwid. Dudem bewijubu muwdokhem vigek nuk gutieb af ihaf ekesocwem obhad umib ijme ijeozopen oti. Vaggika ha gias gur wotahrih ta metsokiz zinu ubelotog lebdah ditomeg muldutwo lav mocpoab fa. Vutuji wojif iwa gijok sowelaz ipviago dawibaesa rumippuz voug ate hib kefam hi fu wa. Zokur cafalo bi uji begaruj vo idinaswat somec dancevwi titacfi ul de gikudtiw.",
+    "bio": "Lizmeha rihif ve peodig sonuh gulhaddin jagdih wuhe but argo gapidi tioti kafa. Tozmusap vappa viv faojage fikanuk bajutfe zu su ezewo bud zigeja na ezalogi fov ozezo esofiw. Fibmagasu elierdi hah dijpaj nep fen ewakud mowhizulu lostih mo puwum vogo nakez ti rira unucupoga."
+  },
+  "apiKey": "5dcfc561986a16594d6ace5348f688dd5fdff1de9fc1ae6fb9d1bbfb2bf9900f",
+  "currency": {
+    "code": "WST",
+    "name": "Samoa Tala"
+  }
+}
