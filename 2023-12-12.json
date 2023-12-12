@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Leonard",
+  "age": 46,
+  "address": {
+    "street": "Tijum Highway",
+    "city": "Ogliod",
+    "state": "IA",
+    "zip": "51664"
+  },
+  "contact": {
+    "phone": "(682) 377-7268",
+    "servicePhone": "800537919"
+  },
+  "birthday": "1994-03-08T15:05:05.982Z",
+  "ip": "141.35.38.46",
+  "foo": "bar",
+  "profile": {
+    "about": "Jocga omda opvupet nas vucivipo al nor ca ta hisolo za faj buchajif kes. Fa ewaub cutcu gobmu vammefi vi azupo sobis epeavbah kus giv ru gopfuctod paendi. Leleg baguj miv roftauz dowi saan nododaka ahuliw sodekok mur uf za reca zosmi ete one lav. Ciri ataceop mijinko wo avukwo liig mare gemwewfo aravacut famzak oj josi zihif focma. Ge leb hugoc kigodulo zed zu ijeitazi hiw ezonu daccejkis advetes naekalo oseav dowehaz ta. Jaslekma nojov jehitu be efbasig olooci piegunu ejek rikus hohbi duwec woragca zatatomo. Lad wer sezupi pi babsa kezfu jief vo tec bigza ecu hut ebbe ke nuve.",
+    "bio": "Oh mu jewjalle id owa zir fo sefahiga recum kupbomzah obivef bi gaza jitriv deslitut ukele. Ipeho cac docobi zidka zelat sipef ogjus wagronobe eveigiv kuloto bopze lesimwut reipalic. Wiutapuj su caflahowe kephujgah mevfol jazetgiv vin vajokfi bouvza teti luidedu cujso tulapu dab."
+  },
+  "apiKey": "d8df8952832d7e0fbac8850cf223bf7ab2fdda6c3a7783535f3a80f3c892b19e",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
