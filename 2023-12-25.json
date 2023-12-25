@@ -1,0 +1,26 @@
+{
+  "name": "Bobby Johnson",
+  "age": 39,
+  "address": {
+    "street": "Jirek Pike",
+    "city": "Kowetri",
+    "state": "ID",
+    "zip": "21573"
+  },
+  "contact": {
+    "phone": "(559) 738-7299",
+    "servicePhone": "800465689"
+  },
+  "birthday": "2006-03-22T04:02:14.086Z",
+  "ip": "188.81.223.103",
+  "foo": "bar",
+  "profile": {
+    "about": "Hahek feet obkore dicrimzud rajol ce gub zemus orlefva anzok zopzaw kow duicro nokzivane izujut wij. Mom he pulilca kef tuc otozaheh ka honfa ig nogve fukkekefu onaci fidurozi toukuha lib tafi. Cesec juon it wehbiz ke ojruv imeirpi uwihen gug ni rawdipov lan gasikiga wu pafdaota. Cudpoap bi uco tefdil jehadag rujonevod walcogil jascewa zeato zim feobiwa ewuuco ru pejtevaz sa evi asu kohuz.",
+    "bio": "Onofeh enapov zitwihi or beh to sit je etecada fizijnuk izu efa ebofesboz. Pu he jupe eweimru zelmib mumi gizwalez rapwibhus heot ho cine wadati jila ifso hisecfaf lew hopadmis fujilu. Uhu ujdus zeonake kukdakcuw bufikvu titihe govtobet umo mu otouf kubhih sokvez mal zab zusup. Tat jar dul jikpawub upesucon pigivvop te cit miw tehas tejed ved. Lohma cedicuku gah zej rentu du boewmun jeplos ivmarrum fago wamifu vipgijpe emtuh."
+  },
+  "apiKey": "347c48c7e59fa2ee2d628a7942dc6b4c79569e137c9d124b67c1b5f1777e838d",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
