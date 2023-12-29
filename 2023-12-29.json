@@ -1,0 +1,26 @@
+{
+  "name": "Della Hughes",
+  "age": 46,
+  "address": {
+    "street": "Ornud Turnpike",
+    "city": "Jajgudner",
+    "state": "MA",
+    "zip": "41882"
+  },
+  "contact": {
+    "phone": "(685) 555-2132",
+    "servicePhone": "800735976"
+  },
+  "birthday": "1990-03-06T09:08:02.113Z",
+  "ip": "209.67.15.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Tevdimare jeul sar fum tiku lidoz af cube curuz fuggo nij anoma. Goc coclok nurugid rartiegi jicukce jiditpoh eraj vioge juhemrer amdo pukneppu enu rokehi kanugol. Rar nip emiavjip hacjavur kaszi zir ic go ud kobfowi pofhacfu buek.",
+    "bio": "Fiaso naateta vak mivotje dub uzeohona oz mijhuv bip ow humlepece himof zulijca. Bop wudsiguno por sespil sucaw vodo kaffus nag nakzol nuhje cungin ducwiki sej neab ginadjet. Lisom gefe vi be bofuttab digbup iprahza nudusom sos guzodo uh kerapet kuuhe icukeb. Wuchufvu uwcu tevuh fuchazad lav usa dip viklagim zudekvap moeb hir fudi povti ocu."
+  },
+  "apiKey": "941b9ab5ef912f0b430e4de0c8a29cf69a7ae370ef2308df481dbb73f5823209",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
