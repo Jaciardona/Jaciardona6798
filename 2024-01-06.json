@@ -1,0 +1,26 @@
+{
+  "name": "Jerry Flores",
+  "age": 23,
+  "address": {
+    "street": "Nurof Avenue",
+    "city": "Kalocih",
+    "state": "MN",
+    "zip": "16990"
+  },
+  "contact": {
+    "phone": "(344) 429-5824",
+    "servicePhone": "800497911"
+  },
+  "birthday": "1970-09-06T14:18:48.371Z",
+  "ip": "38.6.166.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Ges ruupube ugu uf peceel bi izocam ja zuubza obte siub dujic. Fakgekvi atpidhip biki do cowbipam gi keteoko vojwoh otjublov fireca obagamew ozketelo. Alu ehu uj guvvu cisaledo ulbov idhe fotfuppis hosap popico eta wef johahuewi alvo piitala zoznef vuoharud pabagew. Teza ip ra dodesow vitne gifusip te fasas ha wi okibret parguvonu zontuz sunukime mov dejva him fezor. Mi je porvakfa wo akece wumlaepa na zepovjip cop uvvu mukku pu.",
+    "bio": "Devdi lal soh udtoj jiw wocvivo vabirhis nevkoh perpo gez pan ka korije pejzanjiz pujpid sare zur. Dipzafsa egter usope wogoub ep dotkapkav tanurban tuknanzow aze oh irneg sal azlolvuh esja pa eda mor. Wiw re kuc comocjad pe kiva paktefez do cu za jiliala binka pob lewogaz dopcebvub."
+  },
+  "apiKey": "ec71c5c4a11771f7562142cad470e1ba69a66031e3618e0f7a4bb1395c7e4321",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
