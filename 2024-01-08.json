@@ -1,0 +1,26 @@
+{
+  "name": "Ray Salazar",
+  "age": 46,
+  "address": {
+    "street": "Ruhsu View",
+    "city": "Banrurca",
+    "state": "NJ",
+    "zip": "43815"
+  },
+  "contact": {
+    "phone": "(870) 487-6949",
+    "servicePhone": "800286151"
+  },
+  "birthday": "1963-12-22T00:59:23.874Z",
+  "ip": "185.90.198.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Ziduoku botaib tarleg laluzo zevu ri wu izocos gevgacrim no zes ohedat tugcu. Omse za pu fudnihe owbe vu paf uzi wamzatheh seavi rejo tigrona ro fad gifud kajewo ri. Vunop darzuk wemgozfa fegiwno icipu gime utik jikmatu avafi buza rilge rizan diafce mohfuaru gul.",
+    "bio": "Umsuh juah modwogu si jic ida egidop toricpo faheve tarukji cogfi poc pumi ub purlubta. La hofcozdid zo ufka ubasi ogo zalu ek ru vub wa rolutime homviv uguh. Wafevhi ej fimutnoh jape lezfak donuj jutecki hepvaeho uji ajbowwa fihsi vic huzzi hib gig. Limim eko hehvofo waho zalatfol wahfupge rihacev ejo veapo tahtu mitfug po be zujola meob tuleopu bu."
+  },
+  "apiKey": "602c253d913479b640c999523be7278337a597e3be8c216c50d7e53f0ac9c389",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
