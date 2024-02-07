@@ -1,0 +1,26 @@
+{
+  "name": "Fred Silva",
+  "age": 21,
+  "address": {
+    "street": "Risjo Extension",
+    "city": "Nemdesre",
+    "state": "CO",
+    "zip": "59290"
+  },
+  "contact": {
+    "phone": "(723) 317-2084",
+    "servicePhone": "800121884"
+  },
+  "birthday": "2006-04-11T00:48:42.306Z",
+  "ip": "1.202.201.63",
+  "foo": "bar",
+  "profile": {
+    "about": "Lo okinu re ov ran hiw motzi haf vofu vimocbep ihudi luchub ugofu dahonolo bouwhe ovahuwub duse. Fumli dehu gu ripresefo salgef epohip odihilet ju pu woka debjewa jehumi ciozoam zucco. Ohmahu gurara gica nu zoceke wehijat cuznopdi reb rok okafa pecnafi hojozwuw. No gih ijousofu abubanev vejhuv nadkavu nihuw piczimvav wawevbep mew foed nupiupo akonolum ezapakpi cer ogi jozikna. Ovurejwa iltef ho moonzif ze galimi vuntispih tefa ijipfaf gatefsov cab dumitoca pagkaefo sopogag wi.",
+    "bio": "Gabe mohetes zev hoctuudo iji pizaz fad vofem ideihaler aledi bofuv cuwfog mazehher kurruhne. Zokniwu vi dinez jazedro peasu mam fosluitu jeapu mifovuaro fabtekal koconvif di. Uwdeg dogekli doaheec udu min tigco fulid kafimami esav duzu suh zub de pogiseg geghope. Ijunawtal ja gukzupo vomojrep guglik uje vimit ruvi wuh jih ponal zeve awdilip foazuata."
+  },
+  "apiKey": "07ab55c341bf42c373ce55db48e1587e6b1b8f3ee8466f343d8f60efbb24c4df",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
