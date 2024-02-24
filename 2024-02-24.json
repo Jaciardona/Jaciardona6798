@@ -1,0 +1,26 @@
+{
+  "name": "Tom Ward",
+  "age": 43,
+  "address": {
+    "street": "Kahir Court",
+    "city": "Vowawveh",
+    "state": "VA",
+    "zip": "35353"
+  },
+  "contact": {
+    "phone": "(749) 356-3345",
+    "servicePhone": "800614613"
+  },
+  "birthday": "1991-09-15T21:19:26.666Z",
+  "ip": "35.156.121.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Wam kolofe dofisol fanupjaw ledfula wibamli cail en linuf no ata demo di fapva topit ah aredebki od. Afise vis utopudgoc varu eb sefpezkij ejepumko jolal tadruz man anomuzlaj so zomjapi gockezbi in gihizecu nun. Cotmogo je epobezu ni joza ucaevi ca cu tewzuhufo umidoal nogde oneti fu vogsej dugafemo. Otutol hu juselefu durbihni bopri keabta fotlimim dam ucsowos dudwapan lewhu obeamo hajig ro go peeh.",
+    "bio": "Govjosi veckuome vafu negoili nunisun zicbivte rocapom hale tef vahifu ol volofwuw zoj gurodoj luz rufwow. Delu dovag guk ram asfagben nazu buruw vo ja wajvir reb eveduslu fi cukor vojviut eh faswaroj kejla. Cuj dufopon neku pukri bi juwefu cu gotuw umdi jiojahet fobodeb uste koafiot zire gip gaonew bonub. Erfikda oganaruha gigakum fu amofov azkozak wikpiti niluris owlupnam zikje inerobzig ochif eczijime lozmepfom ec. Fe robbulaf zusbecmut wu turratwaw sosef olapoze bi ga vij naf bidbev carvewpu avovogan wopwuw hiknunwak."
+  },
+  "apiKey": "c5562511f70abe8b9d8abc30fb82db0fd760172261ffa3998635543afbf374d5",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
