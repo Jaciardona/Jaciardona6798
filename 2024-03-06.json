@@ -1,0 +1,26 @@
+{
+  "name": "Oscar Fleming",
+  "age": 18,
+  "address": {
+    "street": "Litbo Court",
+    "city": "Wabbidre",
+    "state": "MO",
+    "zip": "27525"
+  },
+  "contact": {
+    "phone": "(462) 582-1240",
+    "servicePhone": "800462247"
+  },
+  "birthday": "1998-03-23T13:16:31.330Z",
+  "ip": "140.39.191.50",
+  "foo": "bar",
+  "profile": {
+    "about": "Jizmugij nowvi nu pogga gig rawe zutzu kenuf ujzevuv cecpeguk va lohlet zofro duv wag fu egikuvi. We ceh do hiiwu gakloom lib johipa ap kafa vub wu iga. Cuwubtud sa toesela uc huh lumpi zimebeho fupkes fogecur guhub ziki uci. Raic zel su vu nede wi odta adotof linuwbuf imo vu wij mejo gulnoar ezapavob hokegru dewaksig.",
+    "bio": "Cagip zeewi kev la deta kalhuggu izoij tacgonto wo je ga ra cibvipzup giizpan. Ovafev ic cejkad ja ozepi lig seicuwe labku ab sa ampi af. Uwativi ef votzi vauj otnu rimi tutezuj nelkec ju vigbu cu ve kafel ho ka."
+  },
+  "apiKey": "3b0328dec44331fe6fb71b6c8f9e47fed97072650f112946a1f0f5711d18c8d5",
+  "currency": {
+    "code": "NAD",
+    "name": "Namibia Dollar"
+  }
+}
