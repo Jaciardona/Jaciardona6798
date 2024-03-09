@@ -1,0 +1,26 @@
+{
+  "name": "Marie Ball",
+  "age": 24,
+  "address": {
+    "street": "Apicus Court",
+    "city": "Pehwamje",
+    "state": "ID",
+    "zip": "10585"
+  },
+  "contact": {
+    "phone": "(337) 940-9009",
+    "servicePhone": "800349536"
+  },
+  "birthday": "1960-07-02T09:44:33.627Z",
+  "ip": "101.196.35.242",
+  "foo": "bar",
+  "profile": {
+    "about": "Tofid cofgetek herikew wagoj nadokhi amwav oko liipi ed keez akobo worsaf aruwi dosul jufwu ube he jadaifu. Honuj ako suddi sanlom ilhuvbes aj ke fubu diw zeefo aw dubeh decho. Ud bonpawbaf esozdil mopjekjoj jo wakluta fuhtojdi ge cem gimmeut kejeruku ewgulpok kofmowa le linos zevtihfo bopkolas.",
+    "bio": "Kojkun gat porak onwusot oma hih ibejo opuzesut mej dejbic jek faner pi lu tohanupud. Mikpibmo agodo mimelobi pem adi muv nabpel leka ov hepin rir wop. Zol liplul ogzoihi neg lueho fe bujzaz wa umwazive vi emepup jeksikuc ujwawek aw wuvzeve otcu. La agnigga wuhfig afigu tonadud enceal ime ra di vuati go geog pasi sivcu uru vo sikolad niweam."
+  },
+  "apiKey": "3f85038f81c1e99da6e1ecaf0caeb9ed5de5fe4b35f29806dfaec0ae44947ed5",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
