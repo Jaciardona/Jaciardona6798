@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Vaughn",
+  "age": 62,
+  "address": {
+    "street": "Nohri Key",
+    "city": "Filbedfu",
+    "state": "NC",
+    "zip": "87985"
+  },
+  "contact": {
+    "phone": "(633) 215-7451",
+    "servicePhone": "800743832"
+  },
+  "birthday": "1997-01-03T00:53:17.028Z",
+  "ip": "144.86.5.35",
+  "foo": "bar",
+  "profile": {
+    "about": "Sa zibomuk is muzabek wofolefah kufugne nowaf uje ro ile kopolecuc nuhleewe. Uj ew natapu ko azova rufum vevi waz gorjuv po biloski do zo. Ima net lirasim nuhgo lu koko um lalmo wabi focug naelvum ad no fahehje anigucim dopjig holbiezi pos. Car sig gikibob alu bosufoc racebij nebafono ful buh in opkejo tahosakes teh.",
+    "bio": "Miwsah imewuag zangop lesha ha vocunce vekom lisecad ivga co zo moz buwa vinehaho zilbechev pav. Mom ehuecac roodo otkuupe joildol lul luj badterzis niaku rav riuza ol hiselum lioc. Ton adige dod cog kolol owojuum opopro nusobul sesi abo temac kajoljuh fe."
+  },
+  "apiKey": "6842e91d857923617207ee4c265aed5a2bc0e837d4968e17d878d97d9118c5bf",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
