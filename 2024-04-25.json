@@ -1,0 +1,26 @@
+{
+  "name": "Carl Malone",
+  "age": 51,
+  "address": {
+    "street": "Kufto Way",
+    "city": "Nigace",
+    "state": "TX",
+    "zip": "23277"
+  },
+  "contact": {
+    "phone": "(609) 700-4403",
+    "servicePhone": "800943679"
+  },
+  "birthday": "1963-11-25T05:42:40.711Z",
+  "ip": "226.67.188.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Fe isevam du uvleffoj tocog biakazi je avamub cepniw wug sizbupec ju waleb. Edevifak hehin fa kuv awo hu jo foromjin dison vib odjuz wu pi ovi pepfurpe cuta bizuczas zuwoic. Kaulo zecnilzas peclu jelice puj lug faer ome ke leovgi tahlo fah kahi huedgaf atojur buudze. Lo esairfo rubcancof wolni tavak ocunjaz usada ume ceogu buspu poujo ze bujhedidu wo. Uzigekta to ucifeg cujsi hig rosvoise melkilim jocadazi eztudil vapcatzen dopvusho lusi dize vicitse.",
+    "bio": "Novre kufjevca efaruuw ve soditool bammaw ge ilunu hahdekfa ob du tilkov tofuz kijosoge. Umih riwtubez ovouhi an dicleeze dinkaki egapil di lufsi ri jis jazit isuku fiba guhujfof ojcav. Lesapubi mildo tafruze bunnac vavah ir mof dif nivked vioc ikpiw tekenfa ko perku ru. Nivaoji pe orlafbi pizuzki wab keosauh bumedfo esgafmi vedketa dun iwlejhal mod ofbo orere saszuh covuf tolo jub."
+  },
+  "apiKey": "35ac715f228193ae8a6af1952a04d216bd70e240a2090b740c3a0c409eec89ab",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
